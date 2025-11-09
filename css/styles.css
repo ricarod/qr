@@ -32,7 +32,7 @@ img {
 }
 
 
-@media (max-width: 740px) {
+@media (min-width: 740px) {
     body {
         width: 25%;
         height: 100vh;
@@ -47,3 +47,4 @@ img {
         transform: translate(-50%, -50%)
     }
 }
+
